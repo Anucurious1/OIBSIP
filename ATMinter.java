@@ -129,7 +129,7 @@ public class ATMinter {
 	    public static void main(String[] args) {
 	        System.out.println();
 	        // Use username as Given'Shirish'
-	        System.out.println("Use pin as '1010 for testing!");
+	        System.out.println("Use pin as '1434' for testing!");
 	        System.out.println("---------------**Login!**---------------");
 	        System.out.print("Enter user name: ");
 	        String username = sc.next();
