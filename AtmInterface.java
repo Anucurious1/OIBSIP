@@ -1,5 +1,5 @@
+//THIS PROJECT DONE BY  ANUHYA MYDAM JAVA DEVELPOMENT INTERN AT OASIS INFOBYTE
 import java.util.Scanner;
-
 class BankAccount {
 	
 	String name;
