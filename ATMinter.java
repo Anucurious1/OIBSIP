@@ -16,7 +16,7 @@ public class ATMinter {
 
 	    // "login" function checks if the given username and pin are valid
 	    public static void login(String username, int pin) {
-	        if (username.contains("Shirish") && pin == 1010) {
+	        if (username.contains("Anuhya") && pin == 1434) {
 	            list.add("Logged in");
 	            ask(1000);
 	        } else {
